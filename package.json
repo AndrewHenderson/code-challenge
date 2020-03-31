@@ -1,0 +1,9 @@
+{
+  "name": "code-challenge",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "create-react-app": "^1.3.3"
+  }
+}

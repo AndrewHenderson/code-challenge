@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.App_score {
+  color: #3498db;
+  font-size: 30px;
+  line-height: 60px;
+  font-weight: bold;
+}
+
+.App_users {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  list-style: none;
+}
+
+.App_user {
+  margin: 0 25px;
+}
+
+.App_button {
+  background: #3498db;
+  border-radius: 4px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 8px 25px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.App_multipy {
+  margin: 50px 0;
+}
+
+.App_input {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+}
